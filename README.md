@@ -1,6 +1,5 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
-This tutorial focuses mainly on Git and using GitHub as it remote
-This repository is built step by step in the tutorial.
-It now include steps for GitHub.Ahker!
+# Guestbook for w3school.com Git tutorial
+
+This is the public Github project that you can contribute to.if you are just getting started,Isuggested you start at tutorial on https://www.w3schools.com
+#Leave a message for us!
+
